@@ -1,4 +1,4 @@
-"homepage": "https://Dracoisademon.github.io/Tiltedcard",
+"homepage": "https://Dracoisademon.github.io/TiltedCard",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
